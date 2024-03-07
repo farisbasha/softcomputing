@@ -33,4 +33,6 @@ Ans:
 1. <img width="263" alt="Screenshot 2024-03-07 at 9 38 30 AM" src="https://github.com/farisbasha/softcomputing/assets/72191505/7c6cc2d5-303d-4ef2-b2c3-e320809dbdf8">
 2. ![IMG_2235](https://github.com/farisbasha/softcomputing/assets/72191505/f5276f57-c361-4289-8279-e5296a3e8a62)
 3. ![IMG_2236](https://github.com/farisbasha/softcomputing/assets/72191505/42f85490-2390-44a3-953c-0c38b711bafd)
+4. ![IMG_2239](https://github.com/farisbasha/softcomputing/assets/72191505/a33182b4-381d-443c-bdef-63a50cf8cbb2)
+
 
