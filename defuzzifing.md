@@ -35,4 +35,6 @@ Ans:
 3. ![IMG_2236](https://github.com/farisbasha/softcomputing/assets/72191505/42f85490-2390-44a3-953c-0c38b711bafd)
 4. ![IMG_2239](https://github.com/farisbasha/softcomputing/assets/72191505/a33182b4-381d-443c-bdef-63a50cf8cbb2)
 
+5. 
+
 
