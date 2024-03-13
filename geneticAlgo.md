@@ -22,3 +22,12 @@
 - Three Parent
 - Precedence Preservative Crossover ( 1/2 )
 - Ordered Crossover
+
+
+
+# Stopping Condition
+- Maximum number generation
+- Elapsed time
+- No change in fitness
+- stall generation
+- stall time
