@@ -23,6 +23,11 @@
 - Precedence Preservative Crossover ( 1/2 )
 - Ordered Crossover
 
+## Mutation
+- Flipping
+- Interchanging
+- Reversing
+- Mutation Probability
 
 
 # Stopping Condition
