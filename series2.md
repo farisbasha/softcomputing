@@ -51,7 +51,8 @@ There are five types of Neural Network Connections:
   - $$\( Y = \sum_{i=1}^n x_i \times w_i \)$$
 
 # 5.List out the steps in perceptron learning algorithm for single output classes
-<img width="409" alt="Screenshot 2024-04-16 at 7 07 01 AM" src="https://github.com/farisbasha/softcomputing/assets/72191505/945752a8-2068-4a7b-9ea8-d1f44e155370">
+<img width="487" alt="Screenshot 2024-04-16 at 9 27 32 PM" src="https://github.com/farisbasha/softcomputing/assets/72191505/b5dfd77f-b957-4b1f-b7c7-a0dead6721e3">
+
 
 # 6.Define artificial neural network, Draw its mathematical model
 
