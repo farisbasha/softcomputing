@@ -57,15 +57,8 @@ There are five types of Neural Network Connections:
 # 6.Define artificial neural network, Draw its mathematical model
 
 ### **Artificial Neural Network (ANN)**:
-- ANN is an efficient Information 
-processing paradigm which 
-resembles the characteristics of a 
-biological neural network.
-- ANN is composed of `large number 
-of interconnected processing 
-elements` called neurons 
-connected by synapses which 
-operates in parallel
+- ANN is an efficient Information  processing paradigm which resembles the characteristics of a biological neural network.
+- ANN is composed of `large number of interconnected processing elements` called neurons connected by synapses which operates in parallel
 
   
   <img width="397" alt="Screenshot 2024-04-16 at 9 31 49 PM" src="https://github.com/farisbasha/softcomputing/assets/72191505/51dcac97-6040-4b82-a7b5-8c93e821098b">
