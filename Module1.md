@@ -204,13 +204,13 @@ Activation functions $f$ are applied to the net input to calculate the output of
    -  <img width="183" alt="Screenshot 2024-05-24 at 2 10 12 PM" src="https://github.com/farisbasha/softcomputing/assets/72191505/008b606c-09b6-430c-895b-b5c07f3eabf9">
 
 2. **Binary Step Function**:
-   - $f(x) = \begin{cases} 1 & \text{if } x \geq \theta \\ 0 & \text{if } x < \theta \end{cases}$
+   - <img width="194" alt="Screenshot 2024-05-24 at 2 33 36 PM" src="https://github.com/farisbasha/softcomputing/assets/72191505/eefda11d-2150-41b1-ab51-c908466ca688">
    - Threshold value $\theta$ determines output.
    - <img width="231" alt="Screenshot 2024-05-24 at 2 10 31 PM" src="https://github.com/farisbasha/softcomputing/assets/72191505/32802a8f-d14a-41c2-9f44-34fbe5d5f208">
 
 
 3. **Bipolar Step Function**:
-   - $f(x) = \begin{cases} 1 & \text{if } x \geq \theta \\ -1 & \text{if } x < \theta \end{cases}$
+   - <img width="204" alt="Screenshot 2024-05-24 at 2 34 11 PM" src="https://github.com/farisbasha/softcomputing/assets/72191505/7c547033-4895-462a-8a73-089c574cfdc8">
    - Threshold value $\theta$ determines output.
    - <img width="201" alt="Screenshot 2024-05-24 at 2 10 43 PM" src="https://github.com/farisbasha/softcomputing/assets/72191505/49670e31-f68b-4e4d-bf16-f4fef993262b">
 
@@ -230,8 +230,9 @@ Activation functions $f$ are applied to the net input to calculate the output of
   
 
 5. **Ramp Function**:
-   - $f(x) = \begin{cases} 1 & \text{if } x > 1 \\ x & \text{if } 0 \leq x \leq 1 \\ 0 & \text{if } x < 0 \end{cases}$
+
    - Also know as **ReLu (Rectified Linear Unit)**
+   - <img width="228" alt="Screenshot 2024-05-24 at 2 35 03 PM" src="https://github.com/farisbasha/softcomputing/assets/72191505/eb4c9af3-b110-410b-9d28-e60e978fd123">
    - Outputs based on input range.
    - <img width="203" alt="Screenshot 2024-05-24 at 2 13 44 PM" src="https://github.com/farisbasha/softcomputing/assets/72191505/ebd2923d-b7fd-4728-9692-312780c21dc3">
    - Outputs zero for negative input values.
