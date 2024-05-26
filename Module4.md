@@ -1,5 +1,4 @@
 # Fuzzy Inference Systems (FIS)
-
 Fuzzy Inference Systems (FIS), also known as fuzzy rule-based systems, fuzzy models, and fuzzy expert systems, are crucial in decision-making within fuzzy logic systems. They utilize "IF ... THEN" rules, often connected by "OR" or "AND".
 
 - **Input**: Can be fuzzy or crisp
